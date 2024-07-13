@@ -3,11 +3,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/harshith2_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshith2_04" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sai-harshith-tenneri-2b6272241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-harshith-tenneri-2b6272241" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhi-ram-sannidhi-3a135124a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-harshith-tenneri-2b6272241" height="30" width="40" /></a>
 <a href="https://fb.com/harshith.tenneri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harshith.tenneri" height="30" width="40" /></a>
-<a href="https://instagram.com/harshith___05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshith___05" height="30" width="40" /></a>
-<a href="https://dribbble.com/harshith_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="harshith_05" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/harshith05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshith05" height="30" width="40" /></a>
+<a href="https://instagram.com/abhirams_0812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshith___05" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/abhirams_0812" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ahbirams_0812" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/_harshith_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_harshith_05" height="30" width="40" /></a>
 <a href="https://discord.gg/#harshith6828" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#harshith6828" height="30" width="40" /></a>
 
