@@ -1,13 +1,24 @@
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
+<h1 align="center">Hi 👋, Abhi Ram Sannidhi</h1>
+<h3 align="center">A Passionate Software Engineer</h3>
+
+
+
+
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=abhiramsannidhi&icon=0&color=0" alt="visit count"/>
+</a>
+
 </a>
 
 
-- 🔭 I’m currently working on **End To End Cricket Data Analytics Project**
 
 - 🌱 I’m currently learning **Web Scraping , Power BI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/saiharshith05](https://github.com/saiharshith05)
+- 👨‍💻 All of my projects are available at [https://github.com/abhiramsannidhi](https://github.com/abhiramsannidhi)
 
-- 📫 How to reach me **harshithtenneri@gmail.com**
+- 📫 How to reach me **abhiramsannidhi@gmail.com**
 
 ## 🌐 Socials:
 <h3 align="left">Connect with me:</h3>
@@ -28,6 +39,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiramsannidhi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abhiramsannidhi&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
