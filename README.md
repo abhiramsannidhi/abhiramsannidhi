@@ -5,10 +5,15 @@
 
 
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=abhiramsannidhi&icon=0&color=0" alt="visit count"/>
-</a>
+<div align="left">
+  <a href="https://api.daily.dev/get?r=SupianIDz" target="_blank">
+    <img
+      width="355"
+      align="right"
+      src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"
+    />
+  </a>
+</div>
 
 </a>
 
