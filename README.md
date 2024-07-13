@@ -1,3 +1,13 @@
+</a>
+
+
+- 🔭 I’m currently working on **End To End Cricket Data Analytics Project**
+
+- 🌱 I’m currently learning **Web Scraping , Power BI**
+
+- 👨‍💻 All of my projects are available at [https://github.com/saiharshith05](https://github.com/saiharshith05)
+
+- 📫 How to reach me **harshithtenneri@gmail.com**
 
 ## 🌐 Socials:
 <h3 align="left">Connect with me:</h3>
