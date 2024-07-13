@@ -12,7 +12,9 @@
   </a>
 </div>
 
-- 🌱 I’m currently learning **Web Scraping , Power BI**
+![](https://komarev.com/ghpvc/?username=abhiramsannidhi&color=blue)
+
+- 🌱 I’m currently learning **Web Scraping, Power BI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhiramsannidhi](https://github.com/abhiramsannidhi)
 
