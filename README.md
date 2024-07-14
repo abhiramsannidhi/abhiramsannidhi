@@ -1,5 +1,5 @@
 ![Header](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif "Header")
-<h1 align="center">Hi 👋, Abhi Ram Sannidhi</h1>
+<h1 align="center">Hi 👋, I'm Abhi Ram Sannidhi</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
 
 <div align="left">
